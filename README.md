@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Collins Abwao</h1>
-<h3 align="center">A passionate in web developer and Machine learning specialist</h3>
+<h3 align="center">A passionate  web developer and Machine learning specialist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
